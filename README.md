@@ -5,7 +5,7 @@ Public IP Widget will show your public IP plus the Country flag of which your IP
 
 Particular useful if you are using VPN solutions and often switch between different Countries.
 
-<img width="258" alt="public_ip2" src="https://user-images.githubusercontent.com/6317005/31828876-deee47cc-b5bb-11e7-9838-08d6458e606a.png">
+<img width="258" alt="public_ip2" src="https://user-images.githubusercontent.com/6317005/31829207-e5451c80-b5bc-11e7-931b-1c36a4a2fc1c.png">
 
 It's a revamped version of the already existing public_ip widget for Übersicht
 
