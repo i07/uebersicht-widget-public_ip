@@ -1,0 +1,6 @@
+{
+  "name": "public_ip2",
+  "description": "Public IP showing with flag of the IP's country, useful when using VPN's",
+  "author": "Marc Donkers",
+  "email": "marc@i07.eu"
+}
