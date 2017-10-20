@@ -11,5 +11,5 @@ It's a revamped version of the already existing public_ip widget for Übersicht
 
 - changed from curl in command:, to a little bash script to handle obtaining info to show
 - fixed obtaining the IP from a stable service (https://api.ipify.org/?format=text)
-- added country detection url (https://ipapi.co/{your IP}/country/)
+- added country detection url (https://ipapi.co/{your_IP}/country/)
 - added flag image resolve from (http://www.geognos.com/api/en/countries/flag/{your_country_code}.png)
