@@ -1,5 +1,5 @@
 # uebersicht-widget-public_ip
-Public IP widget for Übersicht 
+Public IP widget for [Übersicht](http://tracesof.net/uebersicht/)
 
 Public IP Widget will show your public IP plus the Country flag of which your IP resolves to.
 
